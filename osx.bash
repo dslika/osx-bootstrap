@@ -74,7 +74,7 @@ defaults write com.apple.driver.AppleBluetoothMultitouch.trackpad DragLock -bool
 defaults write -g NSQuitAlwaysKeepsWindows -bool false
 
 # ポインタを最大に
-defaults write com.apple.universalaccess mouseDriverCursorSize -int 4
+defaults write com.apple.universalaccess mouseDriverCursorSize -int 2
 
 # Activity Monitor.app {{{
 # Dockのアイコンをメモリ使用量に

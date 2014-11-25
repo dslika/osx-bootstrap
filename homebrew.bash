@@ -22,12 +22,6 @@ brew install reattach-to-user-namespace
 echo "rbenv and ruby-build"
 brew install rbenv ruby-build
 
-echo "Databases"
-brew install mysql redis
-
-echo "Install Node.js"
-brew install node
-
 echo "Web tools"
 brew install curl w3m
 brew install wget --enable-iri
